@@ -1,6 +1,6 @@
 # GOS2022 - General Operating System 2022
 
-![GOS2022 Logo](insert_logo_url_here)
+![GOS2022 Logo](https://github.com/GOS2022/.github/blob/main/GOS2022_logo.png)
 
 ## Description
 GOS2022 is a simple, open-source embedded operating system project currently in the development and testing phase. The system has been specifically designed for the STM32F446RE microcontroller, showcasing its versatility and efficiency in embedded applications.
