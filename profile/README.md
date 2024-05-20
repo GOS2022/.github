@@ -13,12 +13,13 @@ Contributions to this project are highly encouraged and appreciated. Whether you
 - **Secondary Email:** [shinika.balasundar@yahoo.com](mailto:shinika.balasundar@yahoo.com)
 
 ## Repositories
-1. **GOS2022 Operating System:** [Link to Repository](#)
-2. **GOSTool:** [Link to Repository](#)
-3. **OS Projects:** [Link to Repository](#)
-4. **Website:** [Link to Repository](#)
-5. **PCB Main Board:** [Link to Repository](#)
-6. **Meeting Minutes:** [Link to Repository](#)
+1. **GOS2022 Operating System:** [Link to Repository](https://github.com/GOS2022/OS)
+2. **GOSTool:** [Link to Repository](https://github.com/GOS2022/Tool)
+3. **OS Projects:** [Link to Repository](https://github.com/GOS2022/Projects)
+4. **Website:** [Link to Repository](https://github.com/GOS2022/Website)
+5. **PCB Main Board:** [Link to Repository](https://github.com/GOS2022/Hardware)
+6. **Meeting Minutes:** [Link to Repository](https://github.com/GOS2022/MOMs)
+7. **Documentation:** [Link to Repository](https://github.com/GOS2022/Documentation)
 
 ## Links
 - [GOS2022 Project Website](https://example.com/gos2022)
