@@ -16,11 +16,6 @@ Contributions to this project are highly encouraged and appreciated. Whether you
 1. **GOS2022 Operating System:** [Link to Repository](https://github.com/GOS2022/OS)
 2. **GOSTool:** [Link to Repository](https://github.com/GOS2022/Tool)
 3. **OS Projects:** [Link to Repository](https://github.com/GOS2022/Projects)
-4. **Website:** [Link to Repository](https://github.com/GOS2022/Website)
-5. **PCB Main Board:** [Link to Repository](https://github.com/GOS2022/Hardware)
-6. **Meeting Minutes:** [Link to Repository](https://github.com/GOS2022/MOMs)
-7. **Documentation:** [Link to Repository](https://github.com/GOS2022/Documentation)
-
-## Links
-- [GOS2022 Project Website](https://example.com/gos2022)
-- [LinkedIn Profile](https://www.linkedin.com/in/yourname)
+4. **GOSLib:**[Link to Repository](https://github.com/GOS2022/Lib)
+6. **Hardware designs:** [Link to Repository](https://github.com/GOS2022/Hardware)
+8. **Documentation:** [Link to Repository](https://github.com/GOS2022/Documentation)
