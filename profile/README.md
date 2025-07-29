@@ -1,4 +1,4 @@
-# GOS2022 - General Operating System 2022
+# GOS2022 - Gazar Operating System 2022
 
 ![GOS2022 Logo](https://github.com/GOS2022/.github/blob/main/GOS2022_logo.png)
 
