@@ -9,8 +9,7 @@ GOS2022 is a simple, open-source embedded operating system project currently in 
 Contributions to this project are highly encouraged and appreciated. Whether you have ideas for improvement, bug fixes, or want to contribute code, your input is valuable. Feel free to reach out with any questions or suggestions.
 
 ## Contact Information
-- **Primary Email:** [gaborr97@gmail.com](mailto:gaborr97@gmail.com)
-- **Secondary Email:** [shinika.balasundar@yahoo.com](mailto:shinika.balasundar@yahoo.com)
+- **Email:** [ahmedibrahim.gazar97@gmail.com](mailto:ahmedibrahim.gazar97@gmail.com)
 
 ## Repositories
 1. **GOS2022 Operating System:** [Link to Repository](https://github.com/GOS2022/OS)
